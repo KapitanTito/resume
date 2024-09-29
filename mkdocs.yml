@@ -1,0 +1,6 @@
+site_name: KapitanTito
+site_url: https://kapitantito.github.io/mkdocs/
+theme:
+  name: material
+site_author: Belyaev Aleksey
+copyright: Belyaev Aleksey, KapitanTito, 2024
